@@ -1,0 +1,27 @@
+.div1{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 10px;
+}
+.div1 img{
+    height: 50px;
+}
+.div2 img{
+    height: 200px;
+    width: 200px;
+    border-style: dashed solid;
+    border-radius: 50%;
+    margin-left: 500px;
+}
+h2{
+    margin-left: 500px;
+    text-shadow: 2px 1px 1px rgb(156, 89, 89);
+    text-decoration: underline;
+}
+
+.div3{
+    display: flex;
+    justify-content: center;
+    
+}
